@@ -22,4 +22,5 @@ makedocs(;
 deploydocs(;
     repo="github.com/KnutAM/MWE.jl",
     devbranch="main",
+    push_preview=true,
 )
