@@ -6,6 +6,8 @@ function fun end
 
 abstract type Foo end
 
+function fun end
+
 """
     fun(x::Foo)
 

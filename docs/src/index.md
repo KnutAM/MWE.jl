@@ -5,11 +5,11 @@ CurrentModule = MWE
 # MWE
 
 ## Foo
-```@doc
+```@docs
 fun(::Foo)
 ```
 
 ## Bar
-```@doc
+```@docs
 fun(::Bar)
 ```
